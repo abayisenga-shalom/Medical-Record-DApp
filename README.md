@@ -99,7 +99,6 @@ cd medichain
 ### ⚙️ 2. Smart Contract Setup
 #### a. Install dependencies
 ```bash
-cd blockchain
 npm install
 ```
 #### b. Compile contracts
