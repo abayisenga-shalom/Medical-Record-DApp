@@ -92,8 +92,8 @@ MetaMask (browser extension for interacting with the DApp)
 
 # 🧠 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/medichain.git
-cd medichain
+git clone https://github.com/abayisenga-shalom/Medical-Record-DApp.git
+cd Medical-Record-DApp
 ```
 
 ### ⚙️ 2. Smart Contract Setup
