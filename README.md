@@ -8,11 +8,11 @@
 
 1. [🚀 Features](#-features)  
 2. [🧑‍💻 Tech Stack](#-tech-stack)  
-3. [📁 Project Frontend Structure](#-project-structure)  
+3. [📁 Project Frontend Structure](#-project-frontend-structure)  
 4. [🔄 System Flowchart](#-system-flowchart)  
 5. [🔧 Setup & Installation](#-setup--installation)  
 6. [📸 Screenshots (Optional)](#-screenshot)  
-7. [▶️ Youtube Demo and Github Repo](#-Youtube-Demo) 
+7. [▶ Youtube Demo and Github Repo](#-youtube-demo-and-github-repo)
 8. [🧩 Future Enhancements](#-future-enhancements)
 
 ---
@@ -156,12 +156,13 @@ Add/view diagnoses and records
 ![alt text](image.png)
 
 
-## 🧩 Project Demo
+## ▶️ Youtube Demo and Github Repo
 
 
 [Youtube Demo](https://www.youtube.com/watch?v=fW-i5mRBYUw)
 
 [Github Repository](https://github.com/abayisenga-shalom/Medical-Record-DApp)
+
 
 
 ## 🧩 Future Enhancements
