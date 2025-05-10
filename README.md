@@ -8,11 +8,12 @@
 
 1. [🚀 Features](#-features)  
 2. [🧑‍💻 Tech Stack](#-tech-stack)  
-3. [📁 Project Structure](#-project-structure)  
+3. [📁 Project Frontend Structure](#-project-structure)  
 4. [🔄 System Flowchart](#-system-flowchart)  
 5. [🔧 Setup & Installation](#-setup--installation)  
 6. [📸 Screenshots (Optional)](#-screenshot)  
-7. [🧩 Future Enhancements](#-future-enhancements) 
+7. [▶️ Youtube Demo and Github Repo](#-Youtube-Demo) 
+8. [🧩 Future Enhancements](#-future-enhancements)
 
 ---
 
@@ -60,7 +61,7 @@
 ├── index.js
 └── README.md
 ```
-
+---
 ## 🔄 System Flowchart
 
 ```mermaid
@@ -153,6 +154,14 @@ Add/view diagnoses and records
 ## 📸 Screenshot
 
 ![alt text](image.png)
+
+
+## 🧩 Project Demo
+
+
+[Youtube Demo](https://www.youtube.com/watch?v=fW-i5mRBYUw)
+
+[Github Repository](https://github.com/abayisenga-shalom/Medical-Record-DApp)
 
 
 ## 🧩 Future Enhancements
