@@ -12,7 +12,7 @@
 4. [🔄 System Flowchart](#-system-flowchart)  
 5. [🔧 Setup & Installation](#-setup--installation)  
 6. [📸 Screenshots (Optional)](#-screenshot)  
-7. [▶ Youtube Demo and Github Repo](#-youtube-demo-and-github-repo)
+7. [▶ Youtube Demo and Github Repo](#%EF%B8%8F-youtube-demo-and-github-repo)
 8. [🧩 Future Enhancements](#-future-enhancements)
 
 ---
